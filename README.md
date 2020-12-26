@@ -11,3 +11,5 @@ Input Protection: Over Current, Over Voltage, Short Circuit Protection
 
 https://fr.aliexpress.com/item/32986237635.html
 3D files (STEP and Solidworks) + KICAD LIB/Footprint
+
+![alt text](http://url/to/img.png)
